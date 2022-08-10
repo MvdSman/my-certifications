@@ -1,6 +1,6 @@
 # My Certifications
 
-All professional certifications I achieved over the years.
+All professional certifications I achieved.
 
 - [Amazon Web Services (AWS)](https://github.com/MvdSman/my-certifications/tree/main/AWS)
 - [Microsoft Azure](https://github.com/MvdSman/my-certifications/tree/main/Microsoft-Azure)
